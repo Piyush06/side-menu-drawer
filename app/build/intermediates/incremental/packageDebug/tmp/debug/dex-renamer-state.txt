@@ -1,0 +1,4 @@
+#Wed Apr 01 18:57:49 IST 2020
+base.0=/Users/piyush/Downloads/duo-navigation-drawer-master/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
